@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://strandnotes.pages.dev/sitemap.xml
