@@ -16,3 +16,4 @@ draft: false
 -Heat-up time: 30 seconds
 -Auto shut-off: 60 minutes
 -Voltage: Dual voltage (110V–240V)
+-Product Link: https://amzn.in/d/05i47Bia

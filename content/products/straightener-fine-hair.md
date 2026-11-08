@@ -16,3 +16,4 @@ draft: false
 -Heat-up time: 30 seconds
 -Auto shut-off: 30 minutes
 -Voltage: Universal voltage (110V–240V)
+-Product LInk: https://amzn.in/d/07lrWmRu
