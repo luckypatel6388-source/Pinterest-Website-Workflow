@@ -7,7 +7,7 @@ bestFor: Thick and coarse hair
 why: Widely trusted by Indian hair salons, its 1.5-inch wide titanium floating plates and high-heat digital recovery glide through thick hair smoothly without snagging.
 popular: true
 draft: false
-image: /img/ikonic-straightener.img
+image: /img/ikonic-straightener.png
 ---
 
 -Plate material: Titanium plates
