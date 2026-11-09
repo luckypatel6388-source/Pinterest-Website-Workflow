@@ -8,6 +8,8 @@ pin: /img/best-hair-dryer-for-curly-hair.jpg
 picks: [sample-dryer, sample-styler]
 popular: true
 draft: true
+image: /img/img-name.png
+
 ---
 Start with who this is for and the one thing to decide first.
 
