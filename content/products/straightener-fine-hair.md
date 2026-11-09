@@ -7,6 +7,7 @@ bestFor: Fine and thin hair
 why: Features ThermoShield technology with an ultra-low 120°C temperature setting and mineral ionic care to prevent heat damage while keeping delicate strands smooth and glossy.
 popular: true
 draft: false
+image: /img/Philips-straightner.png
 
 ---
 
