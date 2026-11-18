@@ -7,16 +7,16 @@ description: Learn how to style the viral 90s butterfly blowout at home using 3 
 keyword: 90s butterfly cut blowout guide
 picks: [revlon-one-step-dryer-brush, tresemme-heat-protectant-spray, matra-jumbo-velcro-rollers]
 popular: true
-draft: false
+draft: true
 image: /img/90s-butterfly-cut-blowout-guide.png
 ---
 
--3-step routine to achieve a bouncy, layered 90s butterfly blowout at home without high-end hot tools
+- 3-step routine to achieve a bouncy, layered 90s butterfly blowout at home without high-end hot tools
 
--Prepping damp hair with heat protectant to build a thermal barrier up to 450°F and prevent structural strand damage
+- Prepping damp hair with heat protectant to build a thermal barrier up to 450°F and prevent structural strand damage
 
--Blow-drying techniques focused on lifting roots upward and curling ends outward away from the face to create winged layers
+- Blow-drying techniques focused on lifting roots upward and curling ends outward away from the face to create winged layers
 
--Setting warm layers in jumbo velcro rollers for 15 minutes to lock in long-lasting crown lift and swishy volume
+- Setting warm layers in jumbo velcro rollers for 15 minutes to lock in long-lasting crown lift and swishy volume
 
--Styling tips to achieve a frizz-free glass shine on brunette and caramel balayage hair using lightweight finishing oil
+- Styling tips to achieve a frizz-free glass shine on brunette and caramel balayage hair using lightweight finishing oil
