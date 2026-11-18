@@ -6,7 +6,7 @@ bestFor: 90s volume, root lift, and smoothing layered hair
 why: Combines a blow dryer and oval round brush into one tool, making it effortless to style face-framing butterfly layers with rounded flicks.
 image: /img/picks/revlon-one-step-dryer-brush.png
 popular: true
-draft: false
+draft: true
  
 ---
 - 1100W power output for fast drying and styling
