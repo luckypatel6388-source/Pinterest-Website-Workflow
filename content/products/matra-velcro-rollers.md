@@ -6,7 +6,7 @@ bestFor: Setting 90s blowout volume, bouncing crown layers, and long-lasting hol
 why: Extra-large self-grip rollers that set warm hair layers in place after blow-drying to hold soft, swishy volume all day.
 image: /img/picks/matra-jumbo-velcro-rollers.png
 popular: true
-draft: true
+draft: false
 ---
 - Extra-large jumbo barrel size for creating maximum lift at the roots and soft outward curves
 - Self-grip velcro surface holds hair securely without snagging or causing mechanical damage

@@ -6,7 +6,7 @@ bestFor: Shielding hair from heat damage up to 450°F and enhancing glass shine
 why: A lightweight leave-in mist that creates a thermal barrier, locking in moisture and preventing frizz during hot brush blowouts.
 image: /img/picks/tresemme-heat-protectant-spray.png
 popular: true
-draft: true
+draft: false
 
 ---
 - Heat protection up to 450°F (232°C) against blow dryers and hot styling irons
