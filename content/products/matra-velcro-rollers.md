@@ -4,7 +4,7 @@ category: Hair Rollers & Heatless Styling
 asin: B09X1K5M7Y
 bestFor: Setting 90s blowout volume, bouncing crown layers, and long-lasting hold
 why: Extra-large self-grip rollers that set warm hair layers in place after blow-drying to hold soft, swishy volume all day.
-image: /img/picks/matra-jumbo-velcro-rollers.jpg
+image: /img/picks/matra-jumbo-velcro-rollers.png
 popular: true
 draft: false
 ---
