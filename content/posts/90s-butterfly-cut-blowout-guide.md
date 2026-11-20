@@ -1,13 +1,13 @@
 ---
 title: How to Do a 90s Butterfly Blowout at Home: 3 Tools to Know
 slug: 90s-butterfly-cut-blowout-guide
-date: 2026-11-18
+date: 2026-11-20
 category: Hair Styling & Tools
 description: See how a dryer brush, a heat spray and jumbo velcro rollers each work in a 90s butterfly blowout, and who each one suits.
 keyword: 90s butterfly cut blowout guide
 picks: [revlon-one-step-dryer-brush, tresemme-heat-protectant-spray, matra-jumbo-velcro-rollers]
 image: /img/90s-butterfly-cut-blowout-guide.png
-popular: popular
+popular: false
 draft: false
 ---
 A butterfly blowout is built on layers that sweep away from the face, with a little lift at the roots. If you want to try the 90s version at home, three tools do most of the work: a hot air brush to dry and shape, a heat protectant spray to prep, and jumbo velcro rollers to set the shape. Here is what each one does, who it suits and what to keep in mind.
@@ -38,7 +38,7 @@ This spray is a prep step for anyone styling with hot tools. The listing describ
 {{product:matra-jumbo-velcro-rollers}}
 These are heatless rollers, so they set a shape without a hot tool. The listing mentions an extra-large barrel and a self-grip velcro surface, sized for medium to long lengths and layers. Keep in mind that they suit longer layers, so very short hair may be hard to wrap.
 
-Start with the dryer brush for volume, protect with heat spray, and finish with velcro rollers — that's the full 90s blowout, done at home in under 20 minutes.
+The order I’d follow: dryer brush for lift, the spray before heat, rollers to set the shape.
 
 ## Wash-day tips
 
